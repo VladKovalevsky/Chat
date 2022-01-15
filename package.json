@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "marked": "^0.6.2",
+    "marked": "^4.0.10",
     "mdi": "^2.2.43",
     "moment": "^2.24.0",
     "node-emoji": "^1.10.0",
